@@ -1,0 +1,41 @@
+#moon{
+		
+		font-size:30px;
+		
+		
+}
+P{
+		
+		font-size:20px;
+}
+.sun
+{
+		
+		font-size:30px;
+		
+}
+.star
+{
+		
+		font-size:20px;
+		
+}
+.ragu
+{
+		font-size:30px;
+		
+}
+.add > p
+{
+		background-color:yellow;
+		font-size:20px;
+}
+div + p
+{		
+		color:red;
+		font-size:20px;
+}
+a[target]
+{
+		background-color: yellow;                                                                                                                                                                                                                                                  ;
+}
